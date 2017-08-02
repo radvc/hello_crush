@@ -1,8 +1,6 @@
 # HelloCrush
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hello_crush`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This will greet message and give things to your crush by passing the name of your crush as an argument. I make this gem for test only, I'm studying how to create gems and this is my simple example.
 
 ## Installation
 
