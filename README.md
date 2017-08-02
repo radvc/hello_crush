@@ -1,6 +1,6 @@
 # HelloCrush
 
-Test purpose only. It's my first time to create and published ruby gem.
+Test purpose only on how to create and publish ruby gem.
 
 This will greet message and give things to your crush by passing the name of your crush as an argument.
 
