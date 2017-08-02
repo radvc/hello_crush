@@ -1,6 +1,6 @@
 # HelloCrush
 
-Test purpose only on how to create and publish ruby gem.
+This repository is only my example for creating and publishing ruby gem.
 
 This will greet message and give things to your crush by passing the name of your crush as an argument.
 
