@@ -1,6 +1,6 @@
 # HelloCrush
 
-This repository is only my example for creating and publishing ruby gem.
+This repository is my example on how to create and publish ruby gem.
 
 This will greet message and give things to your crush by passing the name of your crush as an argument.
 
