@@ -1,7 +1,7 @@
 module HelloCrush
   class Give
     def initialize(name)
-      @name = @name
+      @name = name
     end
 
     def for_you
