@@ -22,8 +22,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In order to greet your crush a sweet message:
 
+```ruby
+HelloCrush::Say.new('Liza').greet
+```
+
+If you wanted to give something:
+
+```ruby
+HelloCrush::Give.new('Ella').for_you
+```
+
+Make sure that you pass name argument inside new method.
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
