@@ -1,6 +1,8 @@
 # HelloCrush
 
-This will greet message and give things to your crush by passing the name of your crush as an argument. I make this gem for test only, I'm studying how to create gems and this is my simple example.
+Test purpose only. It's my first time to create and published ruby gem.
+
+This will greet message and give things to your crush by passing the name of your crush as an argument.
 
 ## Installation
 
