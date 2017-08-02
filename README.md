@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-In order to greet your crush a sweet message:
+To greet your crush a sweet message:
 
 ```ruby
 HelloCrush::Say.new('Liza').greet
